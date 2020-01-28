@@ -15,9 +15,9 @@ On 1 type: javac ATM.java
 Start each one by typing java ATM or java Bank
 
 Enter the id of each bank (11,22,33,44);
-On the atm terminal enter either id 11,22,33,44 (doesn't matter)
+On the atm terminal enter either id 11,22,33,44 
 
-Try accessing an account from either bank. you can open accounts.csv in a text editor (dont use excel) and copy an account number and pin to try and access that account.
+Try accessing an account from either bank, you could open accounts.csv in a text editor (don't use excel) and copy an account number and pin to try and access that account.
 
-On many comps:
-Follow local instructions but change the ips to the computer ips and make sure the OS does not block those ports.
+On many computers:
+Follow local instructions but change the ips to the computer ip and make sure the OS does not block those ports.
